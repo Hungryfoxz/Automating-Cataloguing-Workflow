@@ -61,13 +61,13 @@ Users can:
 
 - Camera Capture Screen
 <p align="center">
-  <img src="screenshot/Screenshot5.png" alt="Desktop Interface Preview" width="40%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); shadow: 0 20px 40px rgba(0,0,0,0.3);">
+  <img src="screenshot/Screenshot5.png" alt="Desktop Interface Preview" width="90%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); shadow: 0 20px 40px rgba(0,0,0,0.3);">
 </p>
 
 - Koha Auto-fill in Action
 
 <p align="center">
-  <img src="screenshot/Screenshot4.png" alt="Desktop Interface Preview" width="40%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); shadow: 0 20px 40px rgba(0,0,0,0.3);">
+  <img src="screenshot/Screenshot4.png" alt="Desktop Interface Preview" width="90%" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); shadow: 0 20px 40px rgba(0,0,0,0.3);">
 </p>
 
 ---
