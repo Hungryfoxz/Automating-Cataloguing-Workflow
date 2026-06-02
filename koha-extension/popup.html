@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      width: 220px;
+      padding: 15px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+    }
+    .card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      padding: 16px;
+      text-align: center;
+      border: 1px solid #e0e0e0;
+    }
+    h3 {
+      margin-top: 0;
+      color: #2c3e50;
+      font-size: 16px;
+      letter-spacing: 0.5px;
+    }
+    #fillBtn {
+      background-color: #4a90e2;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: background 0.3s ease;
+      width: 100%;
+    }
+    #fillBtn:hover {
+      background-color: #357abd;
+    }
+    #fillBtn:active {
+      transform: scale(0.98);
+    }
+    #status {
+      margin-top: 12px;
+      font-size: 12px;
+      color: #7f8c8d;
+      min-height: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h3>Koha AI Autofill</h3>
+    <button id="fillBtn">Fill Title</button>
+    <p id="status"></p>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
